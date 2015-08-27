@@ -6,5 +6,5 @@ cd bb-test
 virtualenv venv
 source venv/bin/activate
 python setup.py develop
-pyton setup.py test
+python setup.py test
 ```
